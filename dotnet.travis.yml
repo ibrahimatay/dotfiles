@@ -1,0 +1,9 @@
+language: csharp
+solution: [Solution].sln
+
+mono: none
+dotnet: 2.1.500
+script:
+ - dotnet restore
+ - dotnet build
+ - dotnet test

@@ -1,0 +1,10 @@
+*.aux
+*.log
+*.dvi
+*.pdf
+*.ps
+*.toc
+*.out
+Thumbs.db
+Desktop.ini
+.DS_Store
